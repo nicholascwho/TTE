@@ -3,7 +3,7 @@ This repository contains code used to analyze and present bioinformatics data du
 
 1. HCC-Endothelial Co-culture Biomaterials 2022
 Hepatocellular carcinoma organoid co-cultures mimic angiocrine crosstalk to generate inflammatory tumor microenvironment
-[doi: ](https://doi.org/10.1016/j.biomaterials.2022.121527)
+[link](https://doi.org/10.1016/j.biomaterials.2022.121527)
 
 2. HNSCC Explant on Hydrogel 2023
 Bioengineered hydrogels preserve patient-derived tumor explants for evaluating immune checkpoint blockade
