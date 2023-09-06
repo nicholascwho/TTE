@@ -11,8 +11,5 @@ Bioengineered hydrogels preserve patient-derived tumor explants for evaluating i
 ### 3. HNSCC CAF States HA 2023
 Data-driven design of tunable hydrogels recapitulate fibroblast heterogeneity in cancer, [in preparation].
 
-### 4. CAF States Alginate
-[in preparation]
-
-### 5. PDAC CAF scRNA-seq 2023
+### 4. PDAC CAF scRNA-seq 2023
 In collaboration with Lab of Translational Cancer Biology (Dr Tam Wai Leong, GIS, A*STAR), [in review with Cancer Discovery].
