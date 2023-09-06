@@ -8,11 +8,11 @@ Hepatocellular carcinoma organoid co-cultures mimic angiocrine crosstalk to gene
 ### 2. HNSCC Explant on Hydrogel 2023
 Bioengineered hydrogels preserve patient-derived tumor explants for evaluating immune checkpoint blockade, [in review].
 
-### 3. CAF States HA 2023
-Biomimetic hydrogels reveal role of microtubules in regulating fibroblast heterogeneity in cancer, [in preparation].
+### 3. HNSCC CAF States HA 2023
+Data-driven design of tunable hydrogels recapitulate fibroblast heterogeneity in cancer, [in preparation].
 
 ### 4. CAF States Alginate
 [in preparation]
 
-### 5. CAF Single Cell Identity
-In collaboration with Tam Lab (GIS, A*STAR), [in preparation].
+### 5. PDAC CAF scRNA-seq 2023
+In collaboration with Lab of Translational Cancer Biology (Dr Tam Wai Leong, GIS, A*STAR), [in review with Cancer Discovery].
